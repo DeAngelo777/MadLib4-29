@@ -16,5 +16,4 @@
 let noun='dog', verb='walk', adjective='blue', adverb='quickly';
 
 console.log(`Enter a noun: ${noun}\nEnter a verb: ${verb}\nEnter an adjective:
-${adjective}\nEnter an adverb: ${adverb}\nDo you ${verb} your ${adjective} ${noun} ${adverb}?
- That's hilarious!`);
+${adjective}\nEnter an adverb: ${adverb}\nDo you ${verb} your ${adjective} ${noun} ${adverb}? That's hilarious!`);
